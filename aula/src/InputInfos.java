@@ -8,5 +8,7 @@ public class InputInfos {
         int idade = sc.nextInt();
 
         System.out.println("Sua idade é: " + idade);
+
+        sc.close();
     }
 }
