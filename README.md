@@ -1,5 +1,12 @@
 # Estudos da faculdade sobre Java
 
+Para rodar o Java localmente utilizar os comandos:
+
+```bash
+    javac -d bin src/*.java
+    java -cp bin App
+```
+
 ## **Vetores**:
 
 São estruturas de dados que agregam elementos do **mesmo** **tipo** na memória, identificando-os através de índices que, no Java, iniciam-se a partir do 0.
